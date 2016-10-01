@@ -1,0 +1,8 @@
+{
+    "sandbox_sequence": [ "env/utils.js", "env/eval.js", 
+        "env/function.js", "env/wscript.js", "env/other.js",
+        "env/console.js" ],
+    "malware_files": [],
+    "context_dump_after": "sandbox_dump_after.json",
+    "save_files": "output/"
+}
